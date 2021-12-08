@@ -107,4 +107,3 @@ function init() {
 
 init();
 
-module.exports = employees;
