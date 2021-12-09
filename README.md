@@ -1,5 +1,8 @@
 # TeamProfileGenerator
 
+![TeamProfileGenerator](https://user-images.githubusercontent.com/91526900/145442079-79f812f0-02b5-494f-868a-007deba73949.gif)
+
+
 A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so a unit test for every part of the code will be written and run to ensure that it passes each test.
 
 ## User Story
@@ -25,4 +28,4 @@ WHEN I select the intern option
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
-[TeamProfileGenerator.zip](https://github.com/nolimarie/TeamProfileGenerator/files/7683590/TeamProfileGenerator.zip)
+
