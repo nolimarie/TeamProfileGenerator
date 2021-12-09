@@ -8,7 +8,7 @@ const path = require('path');
 const fs = require('fs');
 const htmlrender = require('./lib/htmlrender');
 
-const OUTPUT_DIR = path.resolve(__dirname, "output");
+const OUTPUT_DIR = path.resolve(__dirname, "dist");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 const questions = [
