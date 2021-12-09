@@ -1,6 +1,7 @@
 # TeamProfileGenerator
 
-![TeamProfileGenerator](https://user-images.githubusercontent.com/91526900/145442079-79f812f0-02b5-494f-868a-007deba73949.gif)
+![TeamProfileGenerator](https://user-images.githubusercontent.com/91526900/145444613-e23eb872-1d73-46c8-b08c-31d874645dc9.gif)
+
 
 
 A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable, so a unit test for every part of the code will be written and run to ensure that it passes each test.
